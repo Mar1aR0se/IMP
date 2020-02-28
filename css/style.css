@@ -586,7 +586,7 @@ li>a:only-child:after {
 .style-banner p {
     font-size: 16px;
     color: #b5b4b4;
-    letter-spacing: 3px;
+    letter-spacing: 3px;v
 }
 .main-banner h4 {
     color: #fbfbfb;
@@ -597,7 +597,7 @@ li>a:only-child:after {
     text-shadow: 2px 1px 15px #212121;
 }
 .left-banner {
-    background: url(../images/b1.jpg) no-repeat bottom;
+    background: url(../Upload/Vegetable.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
